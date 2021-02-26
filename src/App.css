@@ -13,6 +13,68 @@
   }
 }
 
+h1{
+  text-align: center;
+  margin-bottom: 20px;
+  font-family:  Satisfy;
+  color:rgb(81, 52, 102);
+  font-size: 40px;
+}
+#tearoom{
+  width:500px;
+  height:400px;
+ padding-left: 20%;
+}
+
+#byline {
+  text-align: start;
+  margin-bottom: 20px;
+  font-family: Satisfy;
+  margin-left: 20px;
+  color:rgb(81, 52, 102);
+}
+
+#author{
+  margin-top: 10px;
+  width: 170px;
+  border-radius: 50%;
+  border: solid 1px indigo;
+
+}
+.images{
+  width:600px;
+  height:400px;
+ padding-left: 10%;
+}
+
+#subtitle {
+  font-family: Pacifico;
+  color:rgb(65, 43, 78);
+
+}
+
+h3{
+  text-align: center;
+}
+
+h2{
+  text-align: center;
+  font-family: Pacifico;
+  color:rgb(65, 43, 78);
+}
+
+.wrapper{
+  max-width: 800px;
+  margin: 0 auto;
+  padding-left: 25px;
+  padding-right: 25px;
+  background-color: lightgrey;
+}
+
+.contact{
+  color:rgb(109, 88, 124);
+}
+
 .App-header {
   background-color: #282c34;
   min-height: 100vh;
