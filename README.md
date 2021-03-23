@@ -2,4 +2,12 @@
 
 
 
+### A Travel and Lifestyle Blog
+## HTML
+## CSS
+## JAVASCRIPT
+## REACT
+
+
+
 
