@@ -22,7 +22,7 @@ function App() {
         <br></br>
 
         <div className = "contact">
-          <h3> **To receive my posts by email **</h3>
+          <h3> To receive my posts by email </h3>
           <p>
           <strong> email: maya@fashionblog.com | phone: 020-5550-1098 |  address: 371 Portobello Road, London, EC3N 2AJ </strong>
           </p>
